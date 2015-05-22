@@ -78,7 +78,7 @@ def procPics(picidlist):
 
 
 def downPics(picidlist):
-	url_pre = 'http://www.meilishuo.com/share/item/'
+	url_pre = 'http://www.xxx.com/share/item/'
 
 	encoding_support = ContentEncodingProcessor
 	opener = urllib2.build_opener(encoding_support,urllib2.HTTPHandler)
